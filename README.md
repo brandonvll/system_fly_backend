@@ -64,12 +64,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-
-
-- Laravel Sail con Docker
-- Docker Desktop
-- WSL Ubuntu(Necesario para usarlo en contenedores de docker)
-- compose-2.31.0.zip 
-- comando para instalar dependencias: composer dump-autoload
-- ngrok(programa que usa para exponer los servicios locales a la web)
